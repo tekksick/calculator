@@ -50,7 +50,7 @@ int main()
     {
     cout<<"For + press 1"<<endl<<"For - press 2"<<endl<<"For x press 3"<<endl<<"For / press 4"<<endl<<"For exponentiation          (^) press 5"<<endl<<"For trigonometric functions     press 6"<<endl<<"For inv trigonometric functions press 7"<<endl<<"For factorial               (!) press 8"<<endl<<"For remainder                   press 9"<<endl;
     cin>>num;
-   if(num==1 || num==2 ||num==3||num==4||num==9)
+   if(num==1 || num==2 ||num==3||num==4)
    {
     cout<<"Enter a value ";
     cin>>a;
